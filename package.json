@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CraigMJensen/just-tech-news#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^14.3.2",
     "eslint": "^8.8.0",
     "express": "^4.17.2",
