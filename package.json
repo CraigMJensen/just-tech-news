@@ -11,9 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/CraigMJensen/just-tech-news.git"
   },
-  "keywords": [
-    "heroku"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
